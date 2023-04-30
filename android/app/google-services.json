@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "600368849351",
+    "project_id": "karinderyago",
+    "storage_bucket": "karinderyago.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600368849351:android:b5d93c3228f710e50839e2",
+        "android_client_info": {
+          "package_name": "com.example.karinderya_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600368849351-h0eu6ikeipvkhudn03j2r7tdkapjn0ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd-KYqoNHkwG-KJD43MnqqifUBobw67Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600368849351-h0eu6ikeipvkhudn03j2r7tdkapjn0ep.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600368849351-0fbrbjj64q0ul6ns6kn2qenmf00p8gkd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.karinderyago"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
